@@ -1,4 +1,4 @@
-# BridgeLink - an interop Open Source Community
+# BridgeLink Interface Langauge Translator
 
 1. [Useful Links](#useful-links)
 2. [General Information](#general-information)
