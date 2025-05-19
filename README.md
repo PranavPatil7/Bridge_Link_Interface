@@ -1,24 +1,6 @@
 # BridgeLink Interface Langauge Translator
 
-1. [Useful Links](#useful-links)
-2. [General Information](#general-information)
-3. [Installation and Upgrade](#installation-and-upgrade)
-4. [Starting BridgeLink](#4-starting-bridgelink)
-5. [Running BridgeLink in Java 9 or greater](#java9)
-6. [Java Licensing](#java-licensing)
-7. [License](#license)
 
-------------
-
-<a name="useful-links"></a>
-## 1. Useful Links
-- [Downloads](https://innovar-oss-mirth-mirror.s3.us-east-2.amazonaws.com/index.html) 
-- [User Guide]()
-- [Slack Channel](https://bridgelink01.slack.com/)
-
-------------
-
-<a name="general-information"></a>
 ## 2. General Information
 ##### About BridgeLink
 Like an interpreter who translates foreign languages into the one you understand, BridgeLink translates message standards into the one your system understands. Whenever a &quot;foreign&quot; system sends you a message, BridgeLink&apos;s integration capabilities expedite the following:
