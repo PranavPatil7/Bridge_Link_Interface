@@ -83,20 +83,3 @@ To run the Command Line Interface, create a new file named blcommand.vmoptions i
 
 ------------
 
-<a name="java-licensing"></a>
-## 6. Java Licensing
-In 2019, Oracle made significant changes to the licensing model for official Oracle Java releases. As a result, BridgeLink supports OpenJDK along with various third-party distributions that comply with the new licensing structure. These supported distributions include:
-
-- AdoptOpenJDK
-- Azul Zulu
-- Amazon Corretto
-
-These distributions offer open-source, free-to-use alternatives to Oracle JDK, ensuring compatibility and compliance with the latest licensing requirements.
-
-------------
-
-<a name="license"></a>
-## 7. License
-BridgeLink is released under the [Mozilla Public License version 2.0](https://www.mozilla.org/en-US/MPL/2.0/ "Mozilla Public License version 2.0"). You can find a copy of the license in `server/docs/LICENSE.txt`.
-
-All licensing information regarding third-party libraries is located in the `server/docs/thirdparty` folder.
